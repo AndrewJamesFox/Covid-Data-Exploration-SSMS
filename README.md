@@ -3,7 +3,7 @@
 Andrew Fox
 <br>2023-08-04
 
-This is a portfolio project using SQL Server Management Studio to explore some Covid data. This tables created from the queries in this project are used in another project, [Data Visualization in Tableau](https://public.tableau.com/app/profile/andrew.fox3475/viz/CovidDataVisualizationDashboard_16911892016570/Dashboard1?publish=yes).
+This is a portfolio project using SQL Server Management Studio to explore some Covid data. The tables created from the queries in this project are used in another project, [Data Visualization in Tableau](https://public.tableau.com/app/profile/andrew.fox3475/viz/CovidDataVisualizationDashboard_16911892016570/Dashboard1?publish=yes).
 
 ## Links
 The Covid Data is downloaded from *Our World in Data* [here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0tmTFU0MmVoQVdLTzdzZ3V0RUdXeTI1SkEwZ3xBQ3Jtc0tta2IxRU1LbEotRVhKRURLaXphSVZkdWFWRjFBT2d1bXRVc3RPS0ZQSFJmbUtpTTI4TERZdHo0ZTlSV1V2bU9xTzl4MWZmamR6cThINm5yQjR5bnNNT2NFYnB0NldtY2lXekV4ZzJveEg2aURoTUM3QQ&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths&v=qfyynHBFOsM).
