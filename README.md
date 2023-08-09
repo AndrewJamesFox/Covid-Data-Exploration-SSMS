@@ -1,4 +1,4 @@
-# Covid Data Exploration SSMS
+# COVID Data Exploration SSMS
 
 Andrew Fox
 <br>2023-08-04
